@@ -3,9 +3,9 @@
    "category":"com.microchip.matlab.project",
    "content":{
       "metaDataVersion":"1.0.0",
-      "name":"com.microchip.matlab.project.matlab-lvmc-dspic33ck256mp508-foc-hallsensor",
-      "version":"1.0.0",
-      "displayName":"MATLAB-Simulink model for Hall Sensor Based FOC using LVMC",
+      "name":"com.microchip.matlab.project.test-project",
+      "version":"current",
+      "displayName":"Test Project for main Branch",
       "projectName":"matlab-lvmc-dspic33ck256mp508-foc-hallsensor",
       "shortDescription":"MATLAB-Simulink model for Hall Sensor Based FOC using LVMC",
       "simulationTool":{
